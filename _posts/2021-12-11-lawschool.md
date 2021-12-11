@@ -1,7 +1,7 @@
 ---
 title: 0. 로스쿨에 들어가려면
 author: 우감자
-date: 2021-12-11 19:50:00 +0800
+date: 2021-12-11 19:50:00 +0900
 categories: [lawschool, LEET]
 tags: [lawschool, leet]
 math: false
